@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.exe
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.deps.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\refint\ArrayWithNumbers.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week6StringAndArrays\ArrayWithNumbers\obj\Debug\net6.0\ref\ArrayWithNumbers.dll
